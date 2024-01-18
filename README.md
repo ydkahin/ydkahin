@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Quantitative Finance Projects](https://ydkahin.github.io/posts/markowitz-portfolio/)
 - [Panel for Letterboxd](https://ydkahin.github.io/posts/letterboxd-stats-panel/)
 - [&lpar;How to write&rpar; A Letterboxd Scraper](https://ydkahin.github.io/posts/letterboxd-scraper-i/)
 - [Views Prediction - A Quora Challenge - Final &lpar;EDA, Feature Engineering, and More&rpar;](https://ydkahin.github.io/posts/quora-challenge-last/)
 - [Views Prediction - A Quora Challenge - Part II &lpar;Regression&rpar;](https://ydkahin.github.io/posts/quora_challenge-ii/)
-- [Views Prediction - A Quora Challenge](https://ydkahin.github.io/posts/quora_challenge-i/)
 <!-- BLOG-POST-LIST:END -->
