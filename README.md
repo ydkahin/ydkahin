@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Quantitative Finance Projects](https://ydkahin.github.io/posts/markowitz-portfolio/)
-- [Panel for Letterboxd](https://ydkahin.github.io/posts/letterboxd-stats-panel/)
-- [&lpar;How to write&rpar; A Letterboxd Scraper](https://ydkahin.github.io/posts/letterboxd-scraper-i/)
-- [Views Prediction - A Quora Challenge - Final &lpar;EDA, Feature Engineering, and More&rpar;](https://ydkahin.github.io/posts/quora-challenge-last/)
-- [Views Prediction - A Quora Challenge - Part II &lpar;Regression&rpar;](https://ydkahin.github.io/posts/quora_challenge-ii/)
+- [Pricing Digital Options](https://ydkahin.github.io/posts/digital_options/)
+- [Using the Volatility Surface: Marginal Risk Distribution](https://ydkahin.github.io/posts/vol-surf-marginal-rndist/)
+- [Mapping Risks and Approximating Loss](https://ydkahin.github.io/posts/mapping-risk-loss-apprx/)
+- [Probability of Default](https://ydkahin.github.io/posts/prob-default/)
+- [Quantitative Finance Projects from Forage](https://ydkahin.github.io/posts/qfin-projects/)
 <!-- BLOG-POST-LIST:END -->
