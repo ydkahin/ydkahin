@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - [Pricing Digital Options](https://ydkahin.github.io/posts/digital_options/)
 - [Using the Volatility Surface: Marginal Risk Distribution](https://ydkahin.github.io/posts/vol-surf-marginal-rndist/)
 - [Mapping Risks and Approximating Loss](https://ydkahin.github.io/posts/mapping-risk-loss-apprx/)
-- [Probability of Default](https://ydkahin.github.io/posts/prob-default/)
 - [Quantitative Finance Projects from Forage](https://ydkahin.github.io/posts/qfin-projects/)
+- [Panel for Letterboxd](https://ydkahin.github.io/posts/letterboxd-stats-panel/)
 <!-- BLOG-POST-LIST:END -->
